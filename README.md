@@ -1,2 +1,2 @@
-# mobile-app-analysis
-An analysis of mobile apps on ios and android app stores
+# DataQuest Projects
+This repository is used to share data analysis projects I've completed from the DataQuest course.
